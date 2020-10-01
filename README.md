@@ -4,6 +4,8 @@ This Warzone's website is built with React. This ties in with Warzone's [TGM](ht
 
 ## Contributing
 
+Nitesh Pachlasiya.
+
 ### Setup
 
 1. Setup the [API](https://github.com/WarzoneMC/api) and a Spigot server connected to the API running the [TGM](https://github.com/WarzoneMC/Warzone) plugin configured and running correctly. The API is what the website relies on to get info like player stats and match info.
